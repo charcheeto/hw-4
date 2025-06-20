@@ -1,6 +1,6 @@
 # Answer to HW 4 Question 6
 
-## Why did I choose this question
+## $\color{RoyalPurple}{Why/did/I/choose/this/question}$
 
 The reason why I chose the question:
 
