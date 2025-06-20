@@ -10,7 +10,7 @@ Is because when I usually go on a plane, I don't recline my seat *only* because 
 
 ## $\color{RoyalPurple}{What\ was\ interesting\ about\ the\ chart\?}$
 
-Something I found interesting about the chart was that a lot of people answered that it wasn't rude to recline your seat at all, $\color{OrangeRed}{**BUT**\}$ it then makes me ask a second question of how much recline can one do before people start saying *"Yes, it is rude"*
+Something I found interesting about the chart was that a lot of people answered that it wasn't rude to recline your seat at all, **BUT** it then makes me ask a second question of how much recline can one do before people start saying *"Yes, it is rude"*
 
 The chart I will provide right here:
 
