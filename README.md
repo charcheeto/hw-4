@@ -19,8 +19,8 @@ The chart I will provide right here:
 Shows that:
 
 >502 people said No it wasn't rude at all
->281 people said Yes somewhat
->71 people said Yes it was very rude
+>>281 people said Yes somewhat
+>>>71 people said Yes it was very rude
 
 
 
